@@ -1,0 +1,30 @@
+.footer {
+    text-align: center;
+    background: var(--cor-fundo2);
+    padding: 2rem;
+}
+
+.footer__lista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+
+}
+
+.lista__link a{
+    text-decoration: none;
+    color: var(--cor-principal);
+    margin-left: 1em;
+}
+
+.lista__link a:hover{
+    color: var(--cor-secundaria);
+    font-size: 1.3rem;
+    transition: 1s;
+}
+
+.footer__texto {
+    margin: 1em 0;
+    color: black;
+    font-size: 0.875rem;
+}

@@ -1,0 +1,16 @@
+
+
+:root {
+    --cor-principal: #F24405;
+    --cor-secundaria: #558C03;
+    --cor-fundo: #fefae1;
+    --cor-fundo2: white;
+
+    --fonte-principal: "Montserrat", sans-serif;
+    --fonte-destaque: "Montserrat", sans-serif;
+
+    --tamanho-titulo: 2rem;
+    --tamanho-paragrafremo: 1rem;
+
+    --peso-titulo: 400;
+}

@@ -1,0 +1,66 @@
+.main-container{
+    background-color: var(--cor-fundo2);
+}
+
+.titulo-principal{
+    font-size: var(--tamanho-titulo);
+    font-family: var(--fonte-destaque);
+    font-weight: 600;
+    text-align: center;
+    padding: 2rem;
+    color: var(--cor-principal);
+}
+
+.subtitulo{
+    font-size: var(--tamanho-titulo);
+    font-family: var(--fonte-destaque);
+    font-weight: 600;
+    text-align:left;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    color: var(--cor-principal);
+}
+
+.descricao{
+    font-size: var(--tamanho-paragrafo);
+}
+
+.lista-beneficios {
+    margin-left: 3rem;
+
+}
+
+.paragrafo{
+    font-size: var(--tamanho-paragrafo);
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    padding: 2rem;
+}
+.paragrafo--descricao{
+    font-size: 0.7rem;
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+    padding: 2rem;
+}
+
+.CTA-container{
+    background-color: var(--cor-fundo);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.conteudo-container{
+    background-color: var(--cor-fundo2);
+}
+
+.form{
+    padding: 2rem;
+}
+
+.strong {
+    color: var(--cor-secundaria);
+}
+
+.comentario{
+    margin: 1rem;
+}

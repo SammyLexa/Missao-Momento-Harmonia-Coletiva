@@ -1,0 +1,25 @@
+.logo{
+    width: 250px ;
+    height:200px ;
+}
+
+.nav-item:hover{
+    text-decoration: underline;
+    font-size: 1.30rem;
+    transition: 1s;
+    color: var(--cor-principal);
+}
+.nav-item a:hover{
+    color: var(--cor-principal);
+    font-weight: 900;
+}
+
+.menu{
+    background-color: var(--cor-fundo);
+}
+
+.home{
+    font-weight: 900;
+    text-decoration: underline;
+    color: var(--cor-principal);
+}
